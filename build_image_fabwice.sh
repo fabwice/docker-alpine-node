@@ -1,1 +1,1 @@
-docker build . -t fabwice/alpine-node:v8.14.0
+docker build . -t fabwice/alpine-node:v10.9.0
